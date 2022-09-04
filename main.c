@@ -102,8 +102,6 @@ int main(void) {
   init_display();
   score_init();
   init_input();
-  /* Configuring I2C related PINs */
-
   chThdCreateStatic(waGame, sizeof(waGame), NORMALPRIO, Game, NULL);
   chThdCreateStatic(waScore, sizeof(waScore), NORMALPRIO, Score, NULL);
 
