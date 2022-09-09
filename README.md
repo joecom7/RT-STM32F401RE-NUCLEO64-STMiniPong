@@ -7,3 +7,5 @@ It is one the winner projects of the Neapolis Innovation Summer Campus 2022. It 
 You can use ChibiStudio to flash the project to a STM32F401RE-NUCLEO64.
 
 Demo video: https://youtube.com/shorts/UGqVrBz5rVE
+
+Schematic: https://github.com/joecom7/RT-STM32F401RE-NUCLEO64-STMiniPong/blob/main/Schematic.pdf
